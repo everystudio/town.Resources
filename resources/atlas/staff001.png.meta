@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: ac1cb11e096556c47a399456cf17c57e
+timeCreated: 1467201297
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cleanstaff_no.png
+    21300002: eatstaff_no.png
+    21300004: staff_icon1.png
+    21300006: staff_icon1_2.png
+    21300008: staff_icon2.png
+    21300010: staff_icon2_2.png
+    21300012: staff_icon3.png
+    21300014: staff_icon3_2.png
+    21300016: staff_icon4.png
+    21300018: staff_icon4_2.png
+    21300020: staff_icon5.png
+    21300022: staff_icon5_2.png
+    21300024: staff_icon6.png
+    21300026: staff_icon6_2.png
+    21300028: staff_icon7.png
+    21300030: staff_icon8.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cleanstaff_no.png
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 290
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -40}
+        - {x: 29.5, y: 38}
+        - {x: 21.5, y: 51}
+        - {x: -22.5, y: 51}
+        - {x: -29.5, y: 47}
+        - {x: -29.5, y: -29}
+        - {x: -20.5, y: -51}
+        - {x: -7.5, y: -51}
+        - {x: -3.5, y: -49}
+        - {x: -2.5, y: -51}
+        - {x: 15.5, y: -51}
+    - name: eatstaff_no.png
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 396
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 56}
+        - {x: -29.5, y: 31}
+        - {x: -29.5, y: -56}
+        - {x: 23.5, y: -56}
+        - {x: 29.5, y: -41}
+        - {x: 29.5, y: 49}
+        - {x: 27.5, y: 56}
+    - name: staff_icon1.png
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -41.5}
+        - {x: 34.5, y: -35.5}
+        - {x: 34.5, y: -25.5}
+        - {x: 31.5, y: -17.5}
+        - {x: 30.5, y: 41.5}
+        - {x: 15.5, y: 56.5}
+        - {x: -29.5, y: 56.5}
+        - {x: -34.5, y: 48.5}
+        - {x: -34.5, y: -27.5}
+        - {x: -29.5, y: -55.5}
+        - {x: -26.5, y: -56.5}
+        - {x: 11.5, y: -56.5}
+        - {x: 13.5, y: -51.5}
+        - {x: 13.5, y: -40.5}
+        - {x: 18.5, y: -42.5}
+    - name: staff_icon1_2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 56.5}
+        - {x: -37, y: -32.5}
+        - {x: -23, y: -56.5}
+        - {x: 27, y: -56.5}
+        - {x: 37, y: -45.5}
+        - {x: 37, y: 13.5}
+        - {x: 24, y: 56.5}
+    - name: staff_icon2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 258
+        width: 63
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 61.5}
+        - {x: -13.5, y: 61.5}
+        - {x: -31.5, y: 52.5}
+        - {x: -31.5, y: -61.5}
+        - {x: 12.5, y: -61.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 31.5, y: 44.5}
+        - {x: 25.5, y: 57.5}
+    - name: staff_icon2_2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 385
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 48.5}
+        - {x: 25, y: 61.5}
+        - {x: -13, y: 61.5}
+        - {x: -33, y: 39.5}
+        - {x: -33, y: -55.5}
+        - {x: -23, y: -61.5}
+        - {x: 11, y: -61.5}
+        - {x: 18, y: -55.5}
+        - {x: 30, y: -24.5}
+        - {x: 33, y: -11.5}
+    - name: staff_icon3.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 265
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 58}
+        - {x: -28, y: 45}
+        - {x: -11, y: 9}
+        - {x: -11, y: 1}
+        - {x: -11, y: 7}
+        - {x: -25, y: 22}
+        - {x: -31, y: 24}
+        - {x: -45, y: 23}
+        - {x: -45, y: -14}
+        - {x: -25, y: -58}
+        - {x: 31, y: -58}
+        - {x: 45, y: -17}
+        - {x: 45, y: 50}
+        - {x: 40, y: 58}
+    - name: staff_icon3_2.png
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 58}
+        - {x: -2, y: 57}
+        - {x: -46, y: 10}
+        - {x: -46, y: 0}
+        - {x: -11, y: -50}
+        - {x: -3, y: -58}
+        - {x: 46, y: -58}
+        - {x: 46, y: 49}
+        - {x: 29, y: 58}
+    - name: staff_icon4.png
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 393
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 57.5}
+        - {x: -30, y: -44.5}
+        - {x: -29, y: -57.5}
+        - {x: 13, y: -57.5}
+        - {x: 30, y: -44.5}
+        - {x: 30, y: 57.5}
+    - name: staff_icon4_2.png
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 393
+        width: 63
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 57.5}
+        - {x: -31.5, y: 52.5}
+        - {x: -31.5, y: -27.5}
+        - {x: -18.5, y: -53.5}
+        - {x: -17.5, y: -57.5}
+        - {x: 31.5, y: -57.5}
+        - {x: 31.5, y: 48.5}
+        - {x: 18.5, y: 57.5}
+    - name: staff_icon5.png
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 162
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 55.5}
+        - {x: -12, y: 55.5}
+        - {x: -35, y: 41.5}
+        - {x: -35, y: -55.5}
+        - {x: 18, y: -55.5}
+        - {x: 22, y: -52.5}
+        - {x: 35, y: -10.5}
+        - {x: 35, y: 44.5}
+    - name: staff_icon5_2.png
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 34
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 55.5}
+        - {x: -36, y: 17.5}
+        - {x: -36, y: -36.5}
+        - {x: -24, y: -55.5}
+        - {x: 22, y: -55.5}
+        - {x: 36, y: -43.5}
+        - {x: 36, y: 55.5}
+    - name: staff_icon6.png
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 277
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56}
+        - {x: -38, y: 20}
+        - {x: -38, y: -36}
+        - {x: -25, y: -56}
+        - {x: 38, y: -56}
+        - {x: 38, y: 56}
+    - name: staff_icon6_2.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 56}
+        - {x: -21.5, y: 49}
+        - {x: -38.5, y: 23}
+        - {x: -38.5, y: -36}
+        - {x: -24.5, y: -56}
+        - {x: 28.5, y: -56}
+        - {x: 38.5, y: -35}
+        - {x: 38.5, y: 54}
+        - {x: 32.5, y: 56}
+    - name: staff_icon7.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: staff_icon8.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

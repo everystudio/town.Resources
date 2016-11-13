@@ -1,0 +1,8 @@
+key,value
+map_touchable_gameobject_name,MapRootSample
+map_width,15
+map_height,15
+dir_xx,80
+dir_xy,40
+dir_yx,-80
+dir_yy,40
